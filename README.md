@@ -138,10 +138,3 @@ Enter "join" and provide the IP address and port
 Enter "publish" and provide an article with missing fields
 Expected Results:
 The server should return an error message indicating the article is badly formatted
-
-
-
-
-Source Code and Deliverables:
-
-The source code and all necessary files have been tarred into a single file deliverables.tar.gz. To extract the files, run "tar -xzvf deliverables.tar.gz".
